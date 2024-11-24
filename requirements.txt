@@ -1,9 +1,7 @@
 blinker==1.8.2
 Bootstrap-Flask==2.3.3
-cffi==1.17.1
 click==8.1.7
 colorama==0.4.6
-cryptography==43.0.3
 Flask==2.3.2
 Flask-CKEditor==0.5.1
 Flask-Gravatar==0.5.0
@@ -18,9 +16,7 @@ MarkupSafe==2.1.5
 mysqlclient==2.2.6
 packaging==24.1
 psycopg2-binary==2.9.9
-pycparser==2.22
 PyMySQL==1.1.1
-python-dotenv==1.0.1
 SQLAlchemy==2.0.25
 typing_extensions==4.12.2
 Werkzeug==3.0.0
